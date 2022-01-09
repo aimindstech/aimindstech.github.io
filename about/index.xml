@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us on AiMinds | Hire Trained Candidates</title>
-    <link>https://examplesite.com/about/</link>
+    <link>https://aimindstech.github.io/about/</link>
     <description>Recent content in About Us on AiMinds | Hire Trained Candidates</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://examplesite.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://aimindstech.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
