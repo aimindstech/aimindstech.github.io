@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on AiMinds</title>
-    <link>https://aimindstech.github.io/categories/</link>
-    <description>Recent content in Categories on AiMinds</description>
+    <title>Categories on AiMinds | Hire Trained Candidates</title>
+    <link>https://examplesite.com/categories/</link>
+    <description>Recent content in Categories on AiMinds | Hire Trained Candidates</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2021 AiMinds Inc</copyright><atom:link href="https://aimindstech.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation System</title>
+      <link>https://examplesite.com/categories/automation-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/automation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database Management</title>
+      <link>https://examplesite.com/categories/database-management/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/database-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elements</title>
+      <link>https://examplesite.com/categories/elements/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://examplesite.com/categories/technology/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://examplesite.com/categories/web-development/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

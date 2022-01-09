@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on AiMinds | Hire Trained Candidates</title>
+    <link>https://examplesite.com/tags/tech/</link>
+    <description>Recent content in tech on AiMinds | Hire Trained Candidates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://examplesite.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smart Cities: Cybernetics and Biopolitics</title>
+      <link>https://examplesite.com/blog/smart-cities.1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/smart-cities.1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Stalked by Fears: Will Virtual Reality Be the Answer We Need?</title>
+      <link>https://examplesite.com/blog/stalked-by-fears.1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/stalked-by-fears.1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the No-Code Software Revolution</title>
+      <link>https://examplesite.com/blog/no-code.1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/no-code.1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>What’s Our Problem With the Great Stagnation?</title>
+      <link>https://examplesite.com/blog/great-stagnation.1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/great-stagnation.1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>What’s Our Problem With the Great Stagnation?</title>
+      <link>https://examplesite.com/blog/great-stagnation/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/great-stagnation/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

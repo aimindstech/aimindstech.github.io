@@ -3,57 +3,210 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://aimindstech.github.io/about/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/career/ai-engineer/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/post/creating-a-new-theme/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/post/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/career/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/post/migrate-from-jekyll/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/career/digital-marketing-specialist/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/tags/emoji/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/career/machine-learning-engineer/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/tags/</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/career/vr-ar-engineer/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/post/emoji-support/</loc>
-    <lastmod>2020-11-24T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/career/web-app-developer/</loc>
+    <lastmod>2022-01-07T09:51:57+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/post/hugoisforlovers/</loc>
-    <lastmod>2020-11-06T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/tags/advice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/post/goisforlovers/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+    <loc>https://examplesite.com/tags/automation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/</loc>
-    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
+    <loc>https://examplesite.com/categories/automation-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aimindstech.github.io/categories/</loc>
+    <loc>https://examplesite.com/categories/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/database/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/database-management/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/elements/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/elements/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/elements/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/automation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/smart-cities.1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/smart-cities/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/stalked-by-fears.1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/stalked-by-fears/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/tech/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/technology/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/tags/web/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/categories/web-development/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/no-code.1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/no-code/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/great-stagnation.1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/blog/great-stagnation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/service5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/service4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/service6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/service1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/search/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/service2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://examplesite.com/portfolio/service3/</loc>
   </url>
   
 </urlset>
